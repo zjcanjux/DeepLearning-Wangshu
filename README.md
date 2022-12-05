@@ -4,6 +4,7 @@
 ## 已更新
 - 5分钟-通俗易懂-反向传播算法
 - 5分钟-通俗易懂-图神经网络计算过程
+- pytorch geometric 教程 https://github.com/zjcanjux/torch-geometric-tutorial
 
 
 
